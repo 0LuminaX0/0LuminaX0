@@ -1,8 +1,8 @@
 ### Hi, I'm Andrii 👋
 
-I'm Andrii Negrub, a Computer Science student at National University `Kyiv-Mohyla Academy` passionate about Machine Learning. Currently working on `ComicGlot` - an intelligent system for automated comic text processing and translation, selected as the most innovative coursework of the year.
+> I'm Andrii Negrub, a Computer Science student at National University `Kyiv-Mohyla Academy` passionate about Machine Learning. Currently working on `ComicGlot` - an intelligent system for automated comic text processing and translation, selected as the most innovative coursework of the year.
 
-:mailbox: Reach me out!
+**:mailbox: Reach me out!**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Andrii_Negrub-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/andriinegrub/))
 [![Mail Badge](https://img.shields.io/badge/-Andrii_Negrub-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zurg0505@gmail.com)
@@ -18,5 +18,5 @@ I'm Andrii Negrub, a Computer Science student at National University `Kyiv-Mohyl
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=0luminax0&show_icons=true&rank_icon=github&theme=dark&locale=en" alt="0luminax0" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0luminax0&show_icons=true&locale=en&theme=dark&layout=compact" alt="0luminax0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=0luminax0&show_icons=true&rank_icon=github&theme=merko&locale=en" alt="0luminax0" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0luminax0&show_icons=true&locale=en&theme=merko&layout=compact" alt="0luminax0" /></p>
